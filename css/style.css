@@ -87,22 +87,22 @@ body {background-color: darkred}
 
 .buttonLogin {
     position:absolute;
-    bottom:200px;
-    right:280px;
+    bottom:300px;
+    right:480px;
     width:150px;
     height:40px;
 }
 .buttonRegister {
     position:absolute;
-    bottom:150px;
-    right:280px;
+    bottom:250px;
+    right:480px;
     width:150px;
     height:40px;
 }
 .buttonJump {
     position:absolute;
-    bottom:100px;
-    right:280px;
+    bottom:200px;
+    right:480px;
     width:150px;
     height:40px;
 }
