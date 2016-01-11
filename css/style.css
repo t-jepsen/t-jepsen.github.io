@@ -4,7 +4,7 @@
 	border-radius: 0;
 	border: none;
 	margin-bottom: 0;
-	min-height: 80px;
+	min-height: 30px;
 }
 
 .nav li {
@@ -55,7 +55,8 @@
 
 .bs{
 	float: left;
-	padding-right: 5px;
+	padding-right: 15px;
+  padding-left: 15px;
 }
 
 .vin{
@@ -104,4 +105,36 @@ body {background-color: darkred}
     right:280px;
     width:150px;
     height:40px;
+}
+
+.fa-arrow-circle-down{
+
+  color: lightgrey;
+  font-size: 250%;
+}
+
+.arrow{
+   display:block;
+    text-align:center;
+    margin-top: -7px;
+    padding-bottom: 15px;
+}
+
+.headerIcons{
+  color: lightgrey;
+}
+
+
+
+.fa-search
+{
+   padding-left: 25px;
+}
+.fa-retweet
+{
+   padding-left: 25px;
+}
+.fa-ellipsis-v{
+  padding-left: 27px;
+  padding-top: 11px;
 }
