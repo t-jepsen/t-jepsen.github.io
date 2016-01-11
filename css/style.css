@@ -48,10 +48,8 @@
 
 
 
-
 .img{
 	display: block;
-	
 
 }
 
@@ -77,3 +75,33 @@ span {
 	padding-bottom: 10px;}
 
 body {background-color: darkred}
+
+#img_container {
+    position:relative;
+    display:inline-block;
+    text-align:center;
+    border:1px solid red;
+
+}
+
+.buttonLogin {
+    position:absolute;
+    bottom:200px;
+    right:280px;
+    width:150px;
+    height:40px;
+}
+.buttonRegister {
+    position:absolute;
+    bottom:150px;
+    right:280px;
+    width:150px;
+    height:40px;
+}
+.buttonJump {
+    position:absolute;
+    bottom:100px;
+    right:280px;
+    width:150px;
+    height:40px;
+}
